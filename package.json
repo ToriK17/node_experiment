@@ -1,0 +1,24 @@
+{
+  "name": "node_experiment",
+  "version": "1.0.0",
+  "description": "testing apis",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    
+    
+  },
+  "author": "tori",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ToriK17/node_experiment/issues"
+  },
+  "homepage": "https://github.com/ToriK17/node_experiment#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "request": "^2.81.0"
+  }
+}
